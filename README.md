@@ -1,4 +1,4 @@
-# Pi_day
+# Pi Day
 Estimating Pi value with Monte Carlo Simulation
 
 # How to run this code in your PC
